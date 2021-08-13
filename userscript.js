@@ -2,7 +2,7 @@
 // @name        Notion.so - App Deeplink Injector
 // @name:en     Notion.so - App Deeplink Injector
 // @description Add a 'Open in App' button to the sign in page
-// @namespace   https://github.com/cdeleon94
+// @namespace   https://github.com/CDeLeon94/NotionAppLink/
 // @match       https://www.notion.so/*
 // @run-at      document-start
 // @version     0.0.1
