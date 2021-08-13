@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        Notion.so - Auto Open in App
 // @name:en     Notion.so - Auto Open in App
-// @description Add a 'Open in App' button to the sign in page
+// @description Automatically opens notion links with the notion app via the `notion:/` protocol
 // @namespace   https://github.com/cdeleon94
 // @match       https://www.notion.so/*
 // @run-at      document-start
